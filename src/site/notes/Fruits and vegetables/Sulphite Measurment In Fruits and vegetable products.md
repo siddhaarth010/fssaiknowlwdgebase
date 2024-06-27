@@ -3,4 +3,4 @@
 ---
 
 Tags : [[Tags/FSSAI\|FSSAI]]
-[[Sulphite Calculation\|Refer to this]]
+[[Proximate analysis/Sulphite Calculation\|Refer to this]]
